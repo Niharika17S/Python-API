@@ -1,0 +1,507 @@
+city number is: 0, city name is : saskylakh
+This is an error message!
+city number is: 2, city name is : cape town
+city number is: 3, city name is : lazaro cardenas
+city number is: 4, city name is : yellowknife
+city number is: 5, city name is : saint-philippe
+city number is: 6, city name is : obertyn
+city number is: 7, city name is : ushuaia
+city number is: 8, city name is : rawson
+city number is: 9, city name is : narsaq
+city number is: 10, city name is : waterloo
+city number is: 11, city name is : aykhal
+city number is: 12, city name is : manicore
+city number is: 13, city name is : marigot
+city number is: 14, city name is : hobart
+city number is: 15, city name is : ryotsu
+city number is: 16, city name is : cotoca
+city number is: 17, city name is : butaritari
+city number is: 18, city name is : nantucket
+city number is: 19, city name is : kapaa
+city number is: 20, city name is : waipawa
+city number is: 21, city name is : kroya
+city number is: 22, city name is : salalah
+city number is: 23, city name is : atuona
+city number is: 24, city name is : rocha
+city number is: 25, city name is : punta arenas
+city number is: 26, city name is : rikitea
+city number is: 27, city name is : busselton
+city number is: 28, city name is : new glasgow
+city number is: 29, city name is : nouadhibou
+city number is: 30, city name is : port alfred
+city number is: 31, city name is : bethel
+city number is: 32, city name is : hermanus
+This is an error message!
+city number is: 34, city name is : lavrentiya
+city number is: 35, city name is : east london
+city number is: 36, city name is : kirkuk
+city number is: 37, city name is : nome
+This is an error message!
+city number is: 39, city name is : vaini
+city number is: 40, city name is : eureka
+city number is: 41, city name is : vila franca do campo
+city number is: 42, city name is : toamasina
+city number is: 43, city name is : mataura
+city number is: 44, city name is : dikson
+This is an error message!
+city number is: 46, city name is : boddam
+city number is: 47, city name is : kahului
+city number is: 48, city name is : ahipara
+city number is: 49, city name is : hilo
+city number is: 50, city name is : ostrovnoy
+city number is: 51, city name is : laela
+This is an error message!
+city number is: 53, city name is : bhainsa
+city number is: 54, city name is : belaya gora
+city number is: 55, city name is : carnarvon
+city number is: 56, city name is : vila velha
+city number is: 57, city name is : mar del plata
+city number is: 58, city name is : tabas
+city number is: 59, city name is : mogadishu
+city number is: 60, city name is : kaitangata
+city number is: 61, city name is : napier
+city number is: 62, city name is : jamestown
+city number is: 63, city name is : saldanha
+This is an error message!
+city number is: 65, city name is : cidreira
+city number is: 66, city name is : sao joao da barra
+city number is: 67, city name is : leninskoye
+city number is: 68, city name is : bluff
+city number is: 69, city name is : half moon bay
+This is an error message!
+This is an error message!
+city number is: 72, city name is : ketchikan
+city number is: 73, city name is : tezu
+This is an error message!
+city number is: 75, city name is : cheyenne
+city number is: 76, city name is : singaraja
+city number is: 77, city name is : cherskiy
+city number is: 78, city name is : lagoa
+city number is: 79, city name is : ixtapa
+city number is: 80, city name is : kruisfontein
+city number is: 81, city name is : kunnamangalam
+city number is: 82, city name is : chokurdakh
+city number is: 83, city name is : new norfolk
+city number is: 84, city name is : laguna
+city number is: 85, city name is : nikolskoye
+city number is: 86, city name is : general pico
+city number is: 87, city name is : norman wells
+city number is: 88, city name is : puerto ayora
+city number is: 89, city name is : kaffrine
+city number is: 90, city name is : buraydah
+This is an error message!
+city number is: 92, city name is : talara
+This is an error message!
+city number is: 94, city name is : nanortalik
+city number is: 95, city name is : preobrazheniye
+city number is: 96, city name is : kloulklubed
+city number is: 97, city name is : ponta do sol
+city number is: 98, city name is : qaanaaq
+city number is: 99, city name is : albany
+This is an error message!
+city number is: 101, city name is : airai
+city number is: 102, city name is : arraial do cabo
+city number is: 103, city name is : mahebourg
+This is an error message!
+city number is: 105, city name is : kaeo
+city number is: 106, city name is : taltal
+city number is: 107, city name is : fortuna
+city number is: 108, city name is : aklavik
+city number is: 109, city name is : port elizabeth
+city number is: 110, city name is : sitka
+city number is: 111, city name is : rantauprapat
+This is an error message!
+city number is: 113, city name is : key west
+city number is: 114, city name is : kericho
+city number is: 115, city name is : barrow
+city number is: 116, city name is : brae
+city number is: 117, city name is : klyuchi
+city number is: 118, city name is : wajir
+city number is: 119, city name is : chuy
+city number is: 120, city name is : hamilton
+city number is: 121, city name is : camocim
+city number is: 122, city name is : zhezkazgan
+city number is: 123, city name is : alta floresta
+city number is: 124, city name is : mareeba
+city number is: 125, city name is : burgeo
+city number is: 126, city name is : bredasdorp
+city number is: 127, city name is : havre-saint-pierre
+city number is: 128, city name is : grand gaube
+city number is: 129, city name is : lorengau
+city number is: 130, city name is : tuktoyaktuk
+city number is: 131, city name is : bria
+city number is: 132, city name is : nabire
+city number is: 133, city name is : beyneu
+city number is: 134, city name is : avarua
+city number is: 135, city name is : comodoro rivadavia
+city number is: 136, city name is : kodiak
+city number is: 137, city name is : thunder bay
+city number is: 138, city name is : manakara
+city number is: 139, city name is : holme
+city number is: 140, city name is : altagracia de orituco
+city number is: 141, city name is : bandarbeyla
+city number is: 142, city name is : castro
+city number is: 143, city name is : tuy hoa
+city number is: 144, city name is : meulaboh
+city number is: 145, city name is : walvis bay
+city number is: 146, city name is : monrovia
+This is an error message!
+This is an error message!
+city number is: 149, city name is : provideniya
+This is an error message!
+city number is: 151, city name is : faanui
+city number is: 152, city name is : port lincoln
+city number is: 153, city name is : srandakan
+city number is: 154, city name is : goya
+city number is: 155, city name is : andrews
+This is an error message!
+city number is: 157, city name is : nemuro
+city number is: 158, city name is : victoria
+city number is: 159, city name is : eskil
+city number is: 160, city name is : batemans bay
+city number is: 161, city name is : hasaki
+city number is: 162, city name is : victor harbor
+city number is: 163, city name is : arklow
+city number is: 164, city name is : lianzhou
+city number is: 165, city name is : matay
+This is an error message!
+city number is: 167, city name is : gusev
+city number is: 168, city name is : qaqortoq
+city number is: 169, city name is : agadez
+city number is: 170, city name is : oktyabrskiy
+city number is: 171, city name is : acapulco
+city number is: 172, city name is : dingle
+city number is: 173, city name is : north bend
+This is an error message!
+city number is: 175, city name is : torbay
+city number is: 176, city name is : duluth
+This is an error message!
+city number is: 178, city name is : ejutla de crespo
+city number is: 179, city name is : cayenne
+city number is: 180, city name is : necochea
+city number is: 181, city name is : pevek
+city number is: 182, city name is : haines junction
+city number is: 183, city name is : pontal do parana
+city number is: 184, city name is : scarborough
+city number is: 185, city name is : hithadhoo
+city number is: 186, city name is : souillac
+city number is: 187, city name is : parksville
+city number is: 188, city name is : ust-maya
+city number is: 189, city name is : biak
+city number is: 190, city name is : xining
+city number is: 191, city name is : papara
+city number is: 192, city name is : berlevag
+city number is: 193, city name is : san ramon
+city number is: 194, city name is : evensk
+city number is: 195, city name is : san carlos de bariloche
+city number is: 196, city name is : saint george
+city number is: 197, city name is : imbituba
+city number is: 198, city name is : cuamba
+city number is: 199, city name is : atbasar
+city number is: 200, city name is : thompson
+city number is: 201, city name is : san andres
+city number is: 202, city name is : katsuura
+city number is: 203, city name is : kabanjahe
+city number is: 204, city name is : turukhansk
+city number is: 205, city name is : sisimiut
+city number is: 206, city name is : adrar
+city number is: 207, city name is : plettenberg bay
+city number is: 208, city name is : sao filipe
+city number is: 209, city name is : khatanga
+city number is: 210, city name is : kalabo
+city number is: 211, city name is : sayula
+city number is: 212, city name is : ilulissat
+city number is: 213, city name is : axim
+city number is: 214, city name is : sivas
+city number is: 215, city name is : lebu
+This is an error message!
+city number is: 217, city name is : ortakoy
+city number is: 218, city name is : angoche
+city number is: 219, city name is : pisco
+city number is: 220, city name is : zyryanka
+city number is: 221, city name is : buala
+This is an error message!
+This is an error message!
+city number is: 224, city name is : port blair
+city number is: 225, city name is : rio grande
+city number is: 226, city name is : anloga
+city number is: 227, city name is : tasiilaq
+This is an error message!
+city number is: 229, city name is : mount isa
+city number is: 230, city name is : porto novo
+city number is: 231, city name is : neubrandenburg
+city number is: 232, city name is : arandis
+city number is: 233, city name is : plouzane
+city number is: 234, city name is : ribeira grande
+city number is: 235, city name is : santo antonio do ica
+city number is: 236, city name is : georgetown
+city number is: 237, city name is : dali
+city number is: 238, city name is : wicklow
+city number is: 239, city name is : marsh harbour
+city number is: 240, city name is : yumen
+city number is: 241, city name is : concepcion del oro
+city number is: 242, city name is : alexandria
+city number is: 243, city name is : upernavik
+This is an error message!
+city number is: 245, city name is : mubende
+city number is: 246, city name is : esperance
+city number is: 247, city name is : caravelas
+city number is: 248, city name is : tuatapere
+city number is: 249, city name is : komsomolskiy
+city number is: 250, city name is : champerico
+city number is: 251, city name is : playas
+city number is: 252, city name is : iqaluit
+city number is: 253, city name is : san patricio
+city number is: 254, city name is : kieta
+city number is: 255, city name is : waddan
+city number is: 256, city name is : camacha
+This is an error message!
+city number is: 258, city name is : san quintin
+city number is: 259, city name is : vostok
+city number is: 260, city name is : porto
+city number is: 261, city name is : linda
+city number is: 262, city name is : butterworth
+city number is: 263, city name is : hami
+city number is: 264, city name is : bilma
+city number is: 265, city name is : severo-kurilsk
+city number is: 266, city name is : vao
+city number is: 267, city name is : mackenzie
+city number is: 268, city name is : longyearbyen
+This is an error message!
+city number is: 270, city name is : vanimo
+This is an error message!
+city number is: 272, city name is : yeppoon
+city number is: 273, city name is : omboue
+city number is: 274, city name is : san bernardo
+city number is: 275, city name is : mecca
+city number is: 276, city name is : dunedin
+city number is: 277, city name is : labelle
+city number is: 278, city name is : chimore
+city number is: 279, city name is : kingston
+city number is: 280, city name is : hambantota
+city number is: 281, city name is : pultusk
+city number is: 282, city name is : areka
+city number is: 283, city name is : americo brasiliense
+city number is: 284, city name is : richards bay
+city number is: 285, city name is : karratha
+city number is: 286, city name is : leningradskiy
+city number is: 287, city name is : labuhan
+city number is: 288, city name is : yulara
+city number is: 289, city name is : jijiga
+city number is: 290, city name is : tsaratanana
+This is an error message!
+city number is: 292, city name is : busdi
+city number is: 293, city name is : kamenka
+city number is: 294, city name is : prince rupert
+city number is: 295, city name is : codrington
+city number is: 296, city name is : safita
+city number is: 297, city name is : cabo san lucas
+city number is: 298, city name is : margate
+city number is: 299, city name is : shingu
+city number is: 300, city name is : san antonio
+city number is: 301, city name is : luganville
+city number is: 302, city name is : keuruu
+city number is: 303, city name is : tual
+city number is: 304, city name is : elmadag
+city number is: 305, city name is : seversk
+city number is: 306, city name is : seoul
+city number is: 307, city name is : san cristobal
+city number is: 308, city name is : baiyin
+city number is: 309, city name is : rio gallegos
+city number is: 310, city name is : kavieng
+city number is: 311, city name is : tura
+city number is: 312, city name is : gorontalo
+city number is: 313, city name is : malgrat de mar
+city number is: 314, city name is : sahuaripa
+city number is: 315, city name is : pangody
+city number is: 316, city name is : cabra
+city number is: 317, city name is : christchurch
+city number is: 318, city name is : martapura
+city number is: 319, city name is : naryan-mar
+city number is: 320, city name is : bagdarin
+city number is: 321, city name is : svay rieng
+This is an error message!
+city number is: 323, city name is : charters towers
+city number is: 324, city name is : port macquarie
+city number is: 325, city name is : mulege
+city number is: 326, city name is : port hardy
+This is an error message!
+city number is: 328, city name is : beringovskiy
+city number is: 329, city name is : yenagoa
+city number is: 330, city name is : husavik
+city number is: 331, city name is : rio pardo de minas
+city number is: 332, city name is : dhamtari
+city number is: 333, city name is : tessalit
+city number is: 334, city name is : pacific grove
+city number is: 335, city name is : avera
+city number is: 336, city name is : totskoye
+city number is: 337, city name is : majene
+city number is: 338, city name is : mahajanga
+city number is: 339, city name is : akdepe
+city number is: 340, city name is : pokhara
+This is an error message!
+city number is: 342, city name is : lata
+city number is: 343, city name is : asyut
+city number is: 344, city name is : lasa
+city number is: 345, city name is : raudeberg
+city number is: 346, city name is : touros
+city number is: 347, city name is : shubarshi
+city number is: 348, city name is : the valley
+This is an error message!
+city number is: 350, city name is : tocopilla
+city number is: 351, city name is : kenai
+city number is: 352, city name is : bambous virieux
+city number is: 353, city name is : muros
+city number is: 354, city name is : sioux lookout
+city number is: 355, city name is : dunda
+city number is: 356, city name is : mishelevka
+city number is: 357, city name is : porbandar
+city number is: 358, city name is : puerto madryn
+city number is: 359, city name is : chambas
+city number is: 360, city name is : yonibana
+city number is: 361, city name is : alvaraes
+city number is: 362, city name is : hofn
+city number is: 363, city name is : erzincan
+city number is: 364, city name is : bhimunipatnam
+city number is: 365, city name is : mizdah
+city number is: 366, city name is : freeport
+This is an error message!
+city number is: 368, city name is : basar
+city number is: 369, city name is : maniwaki
+city number is: 370, city name is : guanica
+city number is: 371, city name is : mount darwin
+city number is: 372, city name is : puertollano
+city number is: 373, city name is : houma
+city number is: 374, city name is : nelson bay
+city number is: 375, city name is : oktyabrskoye
+city number is: 376, city name is : kavaratti
+city number is: 377, city name is : qazanbulaq
+city number is: 378, city name is : sur
+city number is: 379, city name is : killybegs
+city number is: 380, city name is : saint-augustin
+city number is: 381, city name is : namatanai
+city number is: 382, city name is : coihaique
+city number is: 383, city name is : sampit
+city number is: 384, city name is : sungairaya
+city number is: 385, city name is : mayumba
+city number is: 386, city name is : klaksvik
+city number is: 387, city name is : ternate
+city number is: 388, city name is : galveston
+city number is: 389, city name is : rock sound
+This is an error message!
+city number is: 391, city name is : sola
+city number is: 392, city name is : bodo
+city number is: 393, city name is : newark
+city number is: 394, city name is : uhlove
+city number is: 395, city name is : ojinaga
+city number is: 396, city name is : sechura
+city number is: 397, city name is : zhigansk
+city number is: 398, city name is : mandurah
+city number is: 399, city name is : coquimbo
+city number is: 400, city name is : dudinka
+city number is: 401, city name is : verkhnevilyuysk
+city number is: 402, city name is : tilichiki
+city number is: 403, city name is : akhmim
+city number is: 404, city name is : tiksi
+city number is: 405, city name is : voznesenye
+city number is: 406, city name is : vilhena
+city number is: 407, city name is : clyde river
+city number is: 408, city name is : bikramganj
+city number is: 409, city name is : kurtamysh
+city number is: 410, city name is : matara
+city number is: 411, city name is : westport
+city number is: 412, city name is : progreso
+city number is: 413, city name is : mount gambier
+city number is: 414, city name is : beloha
+city number is: 415, city name is : gimli
+This is an error message!
+city number is: 417, city name is : tikrit
+city number is: 418, city name is : forest grove
+city number is: 419, city name is : lompoc
+city number is: 420, city name is : nizhniy baskunchak
+city number is: 421, city name is : miandrivazo
+city number is: 422, city name is : hovd
+city number is: 423, city name is : vlore
+This is an error message!
+city number is: 425, city name is : bathsheba
+city number is: 426, city name is : khorinsk
+city number is: 427, city name is : conde
+city number is: 428, city name is : broken hill
+city number is: 429, city name is : chilca
+city number is: 430, city name is : wonthaggi
+city number is: 431, city name is : new smyrna beach
+city number is: 432, city name is : marienburg
+city number is: 433, city name is : nhulunbuy
+city number is: 434, city name is : gavrilov posad
+city number is: 435, city name is : skibbereen
+city number is: 436, city name is : maiduguri
+city number is: 437, city name is : reggello
+city number is: 438, city name is : hervey bay
+city number is: 439, city name is : broome
+city number is: 440, city name is : kopervik
+city number is: 441, city name is : cam ranh
+city number is: 442, city name is : san jose
+city number is: 443, city name is : tadine
+city number is: 444, city name is : perth
+city number is: 445, city name is : weyburn
+city number is: 446, city name is : petropavlovsk-kamchatskiy
+city number is: 447, city name is : catuday
+city number is: 448, city name is : caconda
+city number is: 449, city name is : challapata
+This is an error message!
+city number is: 451, city name is : laramie
+city number is: 452, city name is : whitehorse
+city number is: 453, city name is : del rio
+This is an error message!
+city number is: 455, city name is : gasa
+city number is: 456, city name is : kazuno
+city number is: 457, city name is : kjopsvik
+city number is: 458, city name is : tarauaca
+city number is: 459, city name is : russell
+city number is: 460, city name is : kenora
+city number is: 461, city name is : samarai
+city number is: 462, city name is : torata
+city number is: 463, city name is : alice springs
+city number is: 464, city name is : jaru
+city number is: 465, city name is : inirida
+city number is: 466, city name is : itoman
+city number is: 467, city name is : olinda
+city number is: 468, city name is : alto piquiri
+This is an error message!
+city number is: 470, city name is : paka
+city number is: 471, city name is : kresttsy
+city number is: 472, city name is : yar-sale
+city number is: 473, city name is : anadyr
+city number is: 474, city name is : vardo
+city number is: 475, city name is : sabang
+city number is: 476, city name is : halifax
+city number is: 477, city name is : sjovegan
+city number is: 478, city name is : itarema
+city number is: 479, city name is : mildura
+city number is: 480, city name is : kiama
+city number is: 481, city name is : balsa
+city number is: 482, city name is : lamu
+city number is: 483, city name is : wencheng
+city number is: 484, city name is : ivankiv
+city number is: 485, city name is : khorixas
+This is an error message!
+city number is: 487, city name is : hermosillo
+city number is: 488, city name is : sompeta
+city number is: 489, city name is : isangel
+city number is: 490, city name is : bintulu
+city number is: 491, city name is : choma
+city number is: 492, city name is : paamiut
+city number is: 493, city name is : poum
+city number is: 494, city name is : fort nelson
+This is an error message!
+city number is: 496, city name is : kijang
+city number is: 497, city name is : ust-nera
+city number is: 498, city name is : kodinsk
+city number is: 499, city name is : bela
+
+
+The Latitude information received is: [71.97, -33.93, 28.39, 62.45, 45.36, 48.7, -54.81, -43.3, 60.91, 43.47, 65.95, -5.81, 18.23, -42.88, 38.08, -17.75, 3.07, 41.28, 22.08, -39.94, -6.5, 17.01, -9.8, -34.48, -53.16, -23.12, -33.64, 45.59, 20.93, -33.59, 60.79, -34.42, 65.58, -33.02, 35.47, 30.04, 15.34, 40.8, 37.72, -18.17, -46.19, 73.51, 57.47, 20.89, -35.17, 19.71, 68.05, -8.57, 26.95, 68.54, -30.97, -3.71, -46.43, 33.6, 2.04, -46.28, -39.49, -33.21, 41.42, -30.17, -21.64, 54.82, -23.58, 37.46, 55.34, 27.93, 41.14, -8.11, 68.75, 37.14, 20.71, -34, 11.3, 70.62, -42.78, 27.52, 59.7, -35.66, 65.28, -0.74, 14.1, 26.33, -4.58, 60.14, 42.9, 7.04, -20.63, 77.48, 42.65, -8.93, -22.97, -20.41, -35.1, -25.41, 38.18, 68.22, 39.31, 37.17, 2.1, 47.93, -0.37, -38.31, 60.4, 52.25, 1.75, -33.69, 32.3, -2.9, 47.8, -9.87, -16.99, 47.61, -34.53, 50.23, -20.01, -2.02, 69.44, 6.54, -3.36, 45.32, -21.21, -45.87, 39.95, 48.41, -22.14, 53.7, 9.86, 9.49, -42.48, 13.08, 4.14, -22.95, 6.33, 64.42, -16.48, -34.72, -7.94, -29.14, 32.32, 43.32, 5.28, 38.4, -35.71, 35.73, -35.55, 52.79, 24.79, 28.42, 54.59, 60.72, 16.97, 55.61, 16.86, 11, 43.41, 47.66, 46.77, 16.57, 4.94, -38.55, 69.7, 60.75, -25.67, 54.28, -0.6, 45.6, 33.79, 60.42, -0.91, 36.62, -3.98, 70.86, 12.92, 61.92, -41.13, 39.45, -28.24, -14.8, 51.81, 55.74, 13.32, 33.93, 3.1, 65.8, 66.94, 27.87, -34.05, 14.9, 71.98, -15, 19.88, 69.22, 4.87, 39.75, 8.96, 38.74, -16.23, -13.71, 65.73, -8.15, 11.67, -32.03, 5.79, 65.61, -20.73, -23.68, 53.56, -22.42, 48.38, 38.52, -3.1, 6.8, 25.6, 53, 26.54, 40.29, 24.63, 31.31, 72.79, 0.56, 10.24, -17.73, -46.13, 67.55, 16.38, -2.64, 63.75, -26.98, -6.22, 29.16, 33.08, 17.54, 46.45, 41.15, 39.13, 5.4, 42.84, 18.69, 50.68, 59.1, 55.34, 78.22, -2.67, -23.13, -1.57, -33.59, 21.43, -45.87, 26.76, -16.98, 44.23, 6.12, 52.7, 7.07, -21.72, -28.77, -20.74, 69.38, -2.54, -25.24, 9.35, -16.8, 8.28, 53.19, 54.32, -28.95, 34.82, 22.89, -43.03, 33.72, -33.58, -15.51, 62.26, -5.67, 39.92, 56.6, 37.57, -0.39, 36.55, -51.62, -2.57, 25.52, 0.54, 41.65, 29.05, 65.85, 37.47, -43.53, -3.41, 67.67, 54.44, 11.08, -20.07, -31.43, 26.88, 50.7, 63.05, 4.92, 50.56, -15.62, 20.71, 20.2, 36.62, 33.19, 52.53, -3.54, -15.72, 42.05, 28.21, 30.78, 27.18, 34.92, 61.99, -5.2, 48.59, 18.22, -22.09, 60.55, -20.34, 42.77, 50.1, 30.62, 52.86, 21.64, -42.77, 22.19, 8.44, -3.22, 64.25, 39.75, 17.88, 31.45, 26.54, 27.98, 46.38, 17.97, -16.77, 38.69, 35.63, -32.72, 56.73, 10.57, 40.62, 22.57, 54.63, 44.83, -3.66, -45.58, -2.54, 0.7, -3.44, 62.23, 14.29, 40.58, 24.9, 58.89, 5.91, 40.74, 44.82, 29.56, -5.56, 66.77, -32.55, -29.95, 69.41, 63.45, 60.47, 26.56, 71.64, 61.02, -12.74, 70.47, 25.22, 54.91, -13.74, 53.8, -34.68, -37.83, -25.17, 50.63, 34.62, 45.52, 34.64, 48.22, -19.53, 63.83, 40.47, 13.22, 52.16, -11.81, -31.97, -13.22, -38.6, 29.03, 52.12, -12.18, 56.56, 51.55, 11.84, 43.68, -25.3, 52.47, 59.28, 11.92, 15.79, -21.55, 56.4, 49.67, 53.05, 16.29, -13.73, -18.9, 41.31, 60.72, 29.36, 27.91, 40.2, 68.1, -8.16, -33.01, 49.76, -10.62, -17.08, -23.7, -10.43, 3.87, 26.12, -2.03, -24.02, 45.29, 58.25, 66.83, 64.73, 39.62, 13.72, 44.65, 68.87, -2.92, -34.18, -34.67, 48.17, 0.57, 27.79, 50.93, -20.37, 29.09, 18.93, -19.55, 3.17, -16.81, 61.99, 41.28, 58.81, 35.24, 64.57, 58.6, 26.23]
+The Temperature information received is: [-2.59, 17, 26, 1, 15.8, 4, 7, 15.06, -2, 26, -5.79, 36.21, 27.71, 5, 17, 24, 28.71, 23.3, 27.2, 15.91, 21.41, 27.21, 26.16, 14.81, 9, 24.06, 17.91, 8.36, 23, 19.06, 4.4, 14.06, 4.86, 21.16, 24.71, 31.1, 19.56, 15, 19, 24, 4.81, 1.91, 11, 28, 16.41, 28.3, 2.01, 20.66, 22.61, -15.99, 17.41, 27, 14.36, 22, 25.71, 6.31, 14.46, 7.31, 15.91, 18.96, 25.01, 2, 24.91, 22.2, 11.7, 16.41, -0.84, 25, -5.24, 22, 30, 17.91, 25, -4.79, 6, 30, 6, 18.26, 1, 25, 32, 25, 17, 0.01, 2.46, 26, 25.16, -7.29, 29, 12.21, 25, 23, 15.96, 19.31, 20, 1, 27.3, 12.01, 21.81, 0, 12.81, 13.66, 12, -2.39, 28.91, 14.51, 25, 30.76, 1.01, 28.71, 24, 8.56, 18, 5, 23, 28.66, -2, 20.11, 20.41, 2.56, 26, 13, 10.6, 3, 19.81, 17, 31.36, 25.21, 11.06, 24.31, 23.41, 14, 26, 6, 27.01, 13.11, 20.71, 22.01, 23.2, 14.81, 28, 12.06, 11.81, 21, 13, 18, 14.61, 20.41, 6.41, -2, 25.91, 12, 29, 23.76, 15, 5, 7, 22, 28, 12.01, 0.81, -0.59, 17, 14, 27.56, 17, 28.9, -9.49, 23.61, -3.09, 27, 3, 27, 5.36, 14, 13, 20, 20.61, 5.96, 2, 27.81, 17, 25, 0.56, -9.44, 23, 17.06, 26.81, -2.34, 20.26, 28, -4, 26.36, 9, 9.51, 14, 24.52, 22, -4.21, 30.25, 27.92, 17, 27, -2, 26, 24, 13.42, 17.92, 15, 20.85, 26.65, 28, 11.2, 18, 27.27, -1.83, 21.77, 27.5, -1.86, 16.52, 27, 25.65, 6.57, -0.76, 27, 22.35, -6, 21.15, 28.5, 17.35, 23, 24, 5.27, 18, 25, 26, 2.7, 22.05, 9.15, 5.17, 4, -7, 27.95, 25, 25.6, 18, 19.25, 6.85, 30, 22.4, 25.1, 25.25, 10, 13.8, 22.57, 22.02, 25.32, 2.42, 25, 21, 12.55, 21.82, 25.9, 7.75, 12, 16.55, 22, 29, 9, 21.35, 13, 26.27, 5, 27.17, 12, 1.25, 10, 16, -1, 11, 30.05, 21.02, 25.27, 17, 23.07, 0.55, 19, 9, 25, 4.7, -7.08, 23.77, 27.15, 14, 28.2, 11, 6.6, 22.3, 1.27, 22.17, 23.8, 20.3, 21, 28.9, 9.6, 27.8, 25, 9, 9.77, 6.65, 21, 21, 12, 25.25, 2.4, 28, 15.67, 9.4, 22, 15, -1, 6.65, -0.58, 25.05, 9.85, 29, 22.17, 30, 6, 17, 25.52, 16, 30, 15.5, 11.77, 27, 16.7, 10.8, 4.17, 15, 1.77, 27.2, 16, 27.5, 15.27, 16, 29.65, 10, 23.2, 25.15, 24.4, 12, 28, 22, 26.95, 11, 24.52, 24.2, 13.6, 25.35, 19.27, 0.17, 16, 13, -5.16, -2.71, 6.1, 17.17, -0.68, 5.75, 23, -7, 22.95, 11.27, 11.3, 15.1, 14, 13.67, 22.17, 1.27, 26.42, 20, 21.1, 5.55, 19.85, 9, 21.67, 28, -4.33, 24.1, 15.35, 19, 14.67, 31, 16, 27, 9.02, 14, 23.65, 16, 23.55, 16, 11, 24.52, 25.57, 24.65, 14, 1.17, 7, 26.27, 14.75, 8.6, -2.68, 1, 28.5, -16.61, 16, 5, 27.57, 17, -2, 26.15, 5.3, 22, 25.57, 27.17, 25, 23, 21.4, 11, 7.05, 1.17, 4, 26.1, 27.5, 8, 5, 26, 15.27, 12, 9, 25.75, 11.8, 8, 17.45, 31, 23.25, 24.55, 25, 11.85, 0.32, 2.82, 5, 11, -12.43, 5.17, 11.95]
+The Humidity information received is: [90, 88, 26, 69, 93, 100, 75, 30, 58, 61, 81, 33, 100, 80, 100, 100, 100, 96, 72, 50, 94, 92, 100, 46, 84, 94, 94, 100, 88, 99, 100, 93, 100, 100, 31, 48, 90, 67, 59, 78, 100, 100, 93, 79, 89, 65, 88, 52, 68, 84, 23, 78, 39, 12, 100, 100, 84, 85, 69, 71, 92, 87, 51, 54, 71, 65, 83, 94, 100, 78, 66, 96, 83, 84, 75, 35, 93, 33, 91, 65, 84, 31, 290, 100, 95, 88, 71, 100, 56, 77, 83, 60, 93, 66, 82, 86, 81, 99, 99, 100, 95, 33, 87, 73, 44, 76, 69, 47, 75, 81, 73, 100, 88, 48, 60, 100, 100, 98, 95, 59, 61, 37, 71, 93, 100, 72, 58, 94, 66, 100, 100, 82, 88, 93, 99, 94, 98, 52, 30, 98, 88, 90, 96, 94, 58, 68, 98, 59, 79, 54, 21, 71, 79, 99, 72, 80, 96, 68, 83, 54, 100, 64, 100, 93, 100, 93, 95, 80, 100, 81, 78, 100, 69, 100, 20, 76, 88, 82, 79, 43, 100, 93, 94, 93, 100, 53, 100, 96, 92, 23, 69, 41, 97, 87, 52, 82, 100, 30, 87, 79, 100, 55, 88, 58, 24, 73, 87, 85, 87, 100, 90, 74, 100, 82, 100, 69, 24, 60, 100, 97, 88, 98, 100, 93, 69, 85, 85, 92, 93, 62, 78, 88, 96, 72, 40, 94, 45, 29, 87, 86, 60, 73, 100, 69, 100, 45, 51, 95, 72, 97, 88, 100, 87, 97, 89, 71, 29, 95, 92, 40, 87, 68, 73, 81, 81, 100, 73, 58, 61, 100, 81, 100, 100, 100, 71, 83, 43, 59, 68, 43, 97, 96, 93, 100, 44, 94, 77, 93, 94, 96, 67, 97, 67, 87, 44, 81, 100, 97, 93, 43, 67, 25, 49, 94, 61, 100, 78, 61, 79, 79, 52, 82, 81, 85, 71, 69, 99, 79, 60, 82, 100, 79, 77, 86, 74, 74, 99, 79, 100, 55, 86, 79, 79, 67, 99, 100, 69, 86, 68, 72, 75, 100, 77, 97, 86, 93, 93, 67, 100, 98, 100, 87, 94, 100, 100, 93, 89, 84, 100, 22, 81, 92, 100, 82, 89, 87, 86, 59, 94, 100, 94, 79, 70, 57, 49, 77, 54, 76, 65, 93, 31, 41, 58, 77, 94, 93, 100, 83, 74, 89, 85, 34, 61, 88, 77, 69, 75, 93, 44, 87, 90, 100, 93, 100, 88, 90, 93, 72, 56, 100, 33, 51, 85, 69, 47, 53, 87, 93, 86, 45, 92, 99, 66, 40, 88, 79, 81, 78, 94, 81, 93, 100, 93, 62, 94, 87, 100, 72, 76, 87, 87, 96, 95, 93, 83, 31, 98, 98, 100, 63, 100, 86, 44, 57, 92, 75, 24]
+The Windspeed information received is: [2.57, 6.2, 2.07, 2.1, 6.7, 1.72, 8.7, 3.47, 1.12, 6.7, 1.42, 1.42, 2.67, 4.6, 4.1, 4.22, 4.32, 3.6, 5.7, 2.22, 1.32, 2.17, 6.32, 5.57, 12.3, 7.97, 5.72, 4.17, 5.7, 3.47, 3.1, 1.22, 10.77, 2.52, 4.02, 6.7, 0.97, 8.2, 5.1, 4.1, 1.67, 10.67, 3.1, 4.6, 3.82, 4.6, 8.52, 2.42, 0.52, 1.52, 3.67, 6.2, 3.87, 3.1, 6.17, 2.22, 2.52, 2.82, 5.42, 5.27, 13.02, 1, 6.92, 6.7, 4.1, 0.87, 2.57, 1, 1.12, 2.1, 3.6, 3.37, 1, 3.42, 5.1, 2.1, 3, 2.07, 3.1, 11.3, 3.1, 1.22, 5.7, 1.42, 1.12, 2.97, 1.42, 3.32, 5.7, 0.72, 2.6, 7.7, 3.42, 1.67, 2.6, 3.1, 3.1, 3.57, 0.97, 9.8, 3.47, 6.37, 9.3, 1.32, 5.32, 7.57, 4.1, 7.87, 1.32, 0.77, 5.1, 11.37, 0.5, 3.6, 7.7, 3.47, 3.1, 2.12, 0.62, 2.07, 6.2, 4.1, 6.7, 6.7, 0.87, 4.1, 2.87, 5.72, 3.92, 3.77, 2.07, 2.6, 1.5, 8, 3.77, 4.37, 1.07, 8.52, 4.6, 8.52, 1.5, 1.72, 2.77, 3.6, 0.5, 8.7, 0.97, 2.07, 1.22, 0.5, 0.97, 5, 1.5, 3.37, 6.7, 9.8, 9.3, 3.6, 2.6, 7.42, 5.37, 1.22, 4.6, 0.5, 4.57, 3.1, 3.6, 1.07, 1.42, 1.07, 6.2, 9.3, 1.07, 6.62, 1.5, 0.52, 4.1, 1.67, 5.12, 2.6, 4.87, 3.1, 0.27, 4.52, 0.97, 6.7, 1.72, 4.02, 1.37, 4.12, 1.07, 2.1, 4.82, 4.6, 2.57, 3.6, 0.91, 7.2, 1.96, 3.41, 8.56, 4.6, 4.1, 1.5, 6.2, 4.1, 5.96, 1.26, 4.6, 10.51, 1.26, 4.1, 0.51, 6.7, 4.06, 2.21, 0.86, 5.7, 4.96, 1.61, 2.6, 9.16, 1.31, 1.31, 2.6, 3.81, 4.1, 4.21, 1.41, 4.01, 2.6, 1, 1.31, 8.2, 2.1, 0.5, 3.46, 1.56, 4.81, 1.16, 1.5, 2.6, 4.81, 5.7, 4.26, 1.5, 1.26, 1.86, 7.7, 1.61, 1, 4.91, 2.6, 0.86, 1.56, 5.71, 2.11, 6.01, 0.71, 5.7, 1.66, 6.11, 1.16, 5.06, 1.5, 2.31, 2.1, 2.1, 3.6, 3.06, 1.5, 5.56, 1.5, 0.51, 4.1, 2.06, 6.2, 3.6, 2, 9.8, 5.66, 1.16, 1.01, 1.5, 1.21, 5.91, 1.01, 2.1, 1.86, 9.71, 1.06, 2.86, 4.81, 3.1, 2.01, 2.1, 4.71, 1.56, 6.96, 3.91, 4.31, 2.66, 5.7, 3.1, 5.81, 5.01, 6.86, 2.1, 0.86, 1.21, 3.1, 2.6, 5.1, 7.01, 4.81, 4.1, 1.01, 10.8, 7.7, 6.7, 4.1, 1.21, 0.86, 2.91, 4.21, 2.6, 2.21, 1.01, 5.81, 3.1, 4.21, 3.41, 2.6, 0.96, 2.71, 5.7, 2.41, 1.36, 0.96, 4.6, 2.16, 5.86, 2.1, 3.46, 10.16, 4.1, 5.16, 4.1, 0.71, 1.71, 3.06, 5.7, 2.76, 4.1, 3.31, 5.7, 3.46, 2.6, 5.71, 0.91, 4.26, 0.86, 3.6, 4.6, 2.41, 1.21, 4.86, 1.86, 3.41, 6.81, 1.5, 5.7, 2.76, 9.51, 0.91, 10.61, 6.2, 2.71, 6.46, 6.96, 4.36, 1.5, 5.1, 1.31, 1.46, 1.06, 2.16, 6.2, 1.11, 4.56, 6.01, 4.1, 2.41, 4.6, 2.1, 5.7, 6.46, 10.8, 2.16, 1, 3.86, 3.1, 5.7, 5.61, 0.66, 3.86, 4.6, 2.76, 1, 2.66, 1.81, 2.36, 1.76, 7.7, 3.6, 0.61, 5.1, 4.1, 0.56, 1.5, 8.7, 6.86, 0.86, 3.6, 1.01, 1.41, 5.1, 5.1, 3.46, 3.1, 2.96, 5.76, 6, 5.1, 2.56, 4.6, 8.2, 7.76, 7.26, 3.1, 0.5, 0.16, 1.71, 1, 1.06, 2.6, 5.56, 5.11, 1.26, 1.11, 5.61, 0.76, 3.1, 4.6, 1.06, 2.91, 2.51]
+The Cloudiness information received is: [80, 20, 20, 90, 90, 90, 75, 0, 56, 75, 64, 20, 24, 75, 75, 90, 48, 90, 75, 12, 0, 0, 80, 0, 0, 76, 24, 92, 20, 80, 90, 76, 92, 92, 80, 1, 0, 1, 40, 40, 24, 64, 12, 75, 80, 1, 80, 56, 56, 0, 8, 20, 0, 0, 76, 36, 32, 8, 44, 92, 92, 75, 12, 40, 1, 0, 88, 40, 48, 75, 5, 80, 40, 68, 75, 75, 0, 92, 75, 0, 0, 0, 0, 36, 20, 75, 56, 80, 20, 0, 75, 40, 92, 0, 40, 90, 20, 0, 92, 90, 80, 0, 24, 12, 76, 0, 40, 0, 0, 24, 20, 20, 48, 20, 40, 64, 90, 64, 88, 0, 75, 75, 90, 90, 92, 0, 36, 8, 0, 92, 88, 24, 75, 90, 0, 8, 8, 20, 1, 92, 75, 44, 92, 75, 20, 0, 88, 24, 0, 44, 48, 75, 75, 24, 1, 90, 90, 90, 0, 0, 0, 88, 90, 0, 92, 0, 75, 8, 92, 56, 20, 40, 75, 92, 0, 20, 75, 80, 0, 20, 0, 75, 75, 92, 0, 40, 80, 36, 64, 0, 75, 75, 92, 75, 0, 40, 0, 0, 0, 100, 64, 20, 20, 20, 68, 75, 0, 68, 0, 68, 0, 20, 92, 75, 56, 0, 0, 1, 64, 56, 20, 44, 36, 76, 90, 88, 40, 100, 0, 0, 20, 20, 48, 75, 1, 75, 0, 0, 8, 0, 90, 75, 8, 20, 92, 75, 0, 80, 40, 92, 75, 92, 0, 56, 64, 0, 0, 88, 48, 92, 0, 0, 0, 8, 1, 92, 40, 20, 75, 100, 0, 80, 0, 12, 40, 0, 0, 75, 0, 40, 92, 80, 32, 20, 0, 92, 32, 92, 20, 76, 8, 48, 12, 90, 0, 75, 92, 76, 88, 0, 80, 0, 1, 1, 92, 8, 20, 0, 44, 0, 0, 20, 36, 8, 0, 20, 20, 90, 40, 75, 90, 0, 0, 24, 0, 40, 92, 40, 92, 40, 88, 0, 40, 0, 92, 40, 0, 44, 0, 75, 8, 68, 75, 0, 88, 0, 76, 20, 92, 88, 92, 24, 40, 75, 80, 0, 32, 40, 20, 0, 0, 88, 90, 0, 32, 12, 24, 0, 92, 0, 0, 90, 8, 88, 64, 0, 75, 0, 44, 88, 88, 20, 75, 0, 76, 20, 0, 20, 0, 92, 92, 40, 20, 75, 0, 40, 32, 75, 8, 0, 8, 0, 0, 92, 8, 20, 5, 76, 0, 0, 0, 88, 80, 90, 1, 8, 75, 92, 12, 0, 90, 92, 0, 0, 12, 36, 20, 90, 80, 0, 0, 92, 90, 90, 24, 90, 80, 0, 68, 75, 0, 20, 100, 56, 24, 40, 92, 0, 90, 0, 8, 0, 20, 0, 68, 88, 0]
